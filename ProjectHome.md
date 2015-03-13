@@ -1,0 +1,1 @@
+Evosystem is a javascript simulator for a population of interacting simple organism.  Users can intialize various population attributes, and can view statistics of the evolving population over time.
